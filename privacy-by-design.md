@@ -13,3 +13,4 @@ The framework has seven principles:
 7. Privacy must be user-centric. This means giving users granular privacy options, maximized privacy defaults, detailed privacy information notices, user-friendly options and clear notification of changes.
 
 Some of these principles are easily visible within the proposed open source guidelines, while others should be the focus of discussion.
+
