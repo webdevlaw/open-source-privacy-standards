@@ -16,9 +16,11 @@ This repo will host the first iteration of a best-practice approach to privacy i
 These universal principles can be immediately adopted by a range of open source projects, ideally with each principle mapped to each project's internal development and coding standards.
 
 ### Self-regulation
-In a world where privacy expectations are changing by the month, open source projects now face pressure from site administrators to provide a healthier standard of user privacy. Administrators also expect to be given the tools and resources they need to make the right choices. Projects also face pressure from governments and politicians eager to portray our work as being part of the problem or, worse, to accuse us of active complicity in illegal behavior.
+In a world where privacy expectations are changing by the month, open source projects now face pressure from site administrators to provide a healthier standard of user privacy. Administrators also expect to be given the tools and resources they need to make the right choices. 
 
-By adopting a collaborative best-practice standard for privacy in open source development outwith specific regulations and laws, open source projects will be able to prove to governments and regulators that we are indeed able to self-regulate our work, staving off the threat of future punitive actions or hard regulation.
+For their part, open source projects now face pressure from governments and politicians keen to portray our work as being part of the problem or, worse, to accuse us of active complicity in illegal behavior. A privacy issue or data breach which takes place on a site or application can be seen as a reflection on the open source software project, and not always without reason.
+
+By adopting a collaborative best-practice standard for privacy in open source development outwith specific regulations and laws, open source projects will be able to prove to governments and regulators that we are indeed able to self-regulate our work, staving off the threat of future punitive actions or hard regulation. Guidelines will also help projects to develop tools and resources which will assist end users with that self-regulatory compliance.
 
 ### Methodology
 Privacy is already defined in multiple international (non-regulatory) conventions, international standards, and self-regulatory guidelines. These frameworks contain many commonalities. To arrive at the first iteration of these common standards, I have used the folllowing as our starting point:
