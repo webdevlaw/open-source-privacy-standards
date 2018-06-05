@@ -26,7 +26,7 @@ By adopting a collaborative best-practice standard for privacy in open source de
 Privacy is already defined in multiple international (non-regulatory) conventions, international standards, and self-regulatory guidelines. These frameworks contain many commonalities. To arrive at the first iteration of these common standards, I have used the folllowing as our starting point:
 
 1. [The OECD Privacy Principles](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm) (1980)
-2. [The Council of Europe Convention for the Protection of Individuals with Regard to the Processing of Personal Data](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016807c65bf) (1980/revised June 2018)
+2. [The Council of Europe Convention for the Protection of Individuals with Regard to the Processing of Personal Data](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016807c65bf) (1980/revised May 2018)
 3. [ISO/IEC 2001 International Standard on Information Technology / Security Techniques / Privacy Framework](https://www.iso.org/standard/45123.html) (2011)
 4. [APEC Privacy Framework](https://www.apec.org/Publications/2005/12/APEC-Privacy-Framework) (2005)
 5. [FTC Fair Information Practice Principles](https://web.archive.org/web/20100309105100/http://www.ftc.gov/reports/privacy3/fairinfo.shtm#Access/Participation) (2000)
