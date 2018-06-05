@@ -33,6 +33,8 @@ Privacy is already defined in multiple international (non-regulatory) convention
 
 I welcome the insight and differences of opinion which might be provided by further frameworks, conventions, and international standards.
 
+The [Privacy by Design framework](privacy-by-design.md) merits special discussion.
+
 ### Feedback
 
 This is a draft framework for open discussion. Please create an issue or a pull request to participate. 
