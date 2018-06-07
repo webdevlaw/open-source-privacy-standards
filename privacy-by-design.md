@@ -14,3 +14,30 @@ The framework has seven principles:
 
 Some of these principles are easily visible within the proposed open source guidelines, while others should be the focus of discussion.
 
+## Questions for self-evaluation
+
+The UK's data protection regulator, [the ICO](https://ico.org.uk/for-organisations/guide-to-the-general-data-protection-regulation-gdpr/accountability-and-governance/data-protection-by-design-and-default/), suggests these open-ended questions to evaluate a project's PbD health:
+
+- We consider data protection issues as part of the design and implementation of systems, services, products and business practices.
+
+- We make data protection an essential component of the core functionality of our processing systems and services.
+
+- We anticipate risks and privacy-invasive events before they occur, and take steps to prevent harm to individuals.
+
+- We only process the personal data that we need for our purposes(s), and that we only use the data for those purposes.
+
+- We ensure that personal data is automatically protected in any IT system, service, product, and/or business practice, so that individuals should not have to take any specific action to protect their privacy.
+
+- We provide the identity and contact information of those responsible for data protection both within our organisation and to individuals.
+
+- We adopt a ‘plain language’ policy for any public documents so that individuals easily understand what we are doing with their personal data.
+
+- We provide individuals with tools so they can determine how we are using their personal data, and whether our policies are being properly enforced.
+
+- We offer strong privacy defaults, user-friendly options and controls, and respect user preferences.
+
+- We only use data processors that provide sufficient guarantees of their technical and organisational measures for data protection by design.
+
+- When we use other systems, services or products in our processing activities, we make sure that we only use those whose designers and manufacturers take data protection issues into account.
+
+- We use privacy-enhancing technologies (PETs) to assist us in complying with our data protection by design obligations.
