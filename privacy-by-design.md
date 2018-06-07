@@ -1,6 +1,6 @@
 # the Privacy by Design framework
 
-The [Privacy by Design](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework) framework is a useful tool for developing for user privacy.
+The [Privacy by Design](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework) framework is a useful tool for developing for user privacy. Developed in Canada in the 1990s, it is now a legal requirement under Europe's GDPR. 
 
 The framework has seven principles:
 
