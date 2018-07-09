@@ -27,7 +27,7 @@ While not all questions will be applicable to all projects, this list approximat
 12. What controls do users have over the data collection and retention?
 
 ## Technical and security measures
-1. Is the data encrypted?
+1. Is the data either encrypted or hashed?
 2. Is the data anonymized or pseudonymized?
 3. Is the data backed up?
 4. What are the technical and security measures at the host location?
@@ -36,8 +36,9 @@ While not all questions will be applicable to all projects, this list approximat
 1. Who has access to the data?
 2. What data protection training have those individuals received?
 3. What security measures do those individuals work with?
-4. What data breach notification and alert procedures are in place?
-5. What procedures are in place for government requests?
+4. Do those individuals merely have access or do they hold independent copies?
+5. What data breach notification and alert procedures are in place?
+6. What procedures are in place for government requests?
 
 ## Subject access rights
 1. How does the data subject exercise their access rights?
