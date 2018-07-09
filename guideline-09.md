@@ -1,3 +1,3 @@
 # 9. Choice, control, and consent
 
-Give users and visitors choices and options over your uses of their data; require clear, specific, and informed opt-in; inform users of changes in uses and processing; give people access to their options and rights at any time through settings and control panels.
+Give users and visitors choices and options over your uses of their data; require clear, specific, and informed opt-in; do not assume that a long past opt-in is valid, refresh consent regularly; do not overwhelm users with excessive opt-in forms; inform users of changes in uses and processing; give people access to their options and rights at any time through settings and control panels; communicate to users the options afforded to them by your third party suppliers but do not rely soley on such options; be aware that users may access your services using multiple devices or accounts, be clear about if these preferences will be carried over or would need to be re-asserted.
