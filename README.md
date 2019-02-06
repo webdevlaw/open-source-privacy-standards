@@ -23,13 +23,15 @@ For their part, open source projects now face pressure from governments and poli
 By adopting a collaborative best-practice standard for privacy in open source development outwith specific regulations and laws, open source projects will be able to prove to governments and regulators that we are indeed able to self-regulate our work, staving off the threat of future punitive actions or hard regulation. Guidelines will also help projects to develop tools and resources which will assist end users with that self-regulatory compliance.
 
 ### Methodology
-Privacy is already defined in multiple international (non-regulatory) conventions, international standards, and self-regulatory guidelines. These frameworks contain many commonalities. To arrive at the first iteration of these common standards, I have used the folllowing as our starting point:
+Privacy is already defined in multiple international (non-regulatory) conventions, international standards, and self-regulatory guidelines. These frameworks contain many commonalities. To arrive at the first iteration of these common standards, I have used the following as our starting point:
 
 1. [The OECD Privacy Principles](https://www.oecd.org/sti/ieconomy/oecdguidelinesontheprotectionofprivacyandtransborderflowsofpersonaldata.htm) (1980)
 2. [The Council of Europe Convention for the Protection of Individuals with Regard to the Processing of Personal Data](https://search.coe.int/cm/Pages/result_details.aspx?ObjectId=09000016807c65bf) (1980/revised May 2018)
 3. [ISO/IEC 2001 International Standard on Information Technology / Security Techniques / Privacy Framework](https://www.iso.org/standard/45123.html) (2011)
 4. [APEC Privacy Framework](https://www.apec.org/Publications/2005/12/APEC-Privacy-Framework) (2005)
 5. [FTC Fair Information Practice Principles](https://web.archive.org/web/20100309105100/http://www.ftc.gov/reports/privacy3/fairinfo.shtm#Access/Participation) (2000)
+6. [Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)]
+(https://eur-lex.europa.eu/eli/reg/2016/679/oj) (2018)
 
 I welcome the insight and differences of opinion which might be provided by further frameworks, conventions, and international standards.
 
